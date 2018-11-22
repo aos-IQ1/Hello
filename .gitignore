@@ -1,6 +1,13 @@
 # binary
 .*.sw*
 *.zip
+
+# ESP-IDF
+
+build/
+sdkconfig
+sdkconfig.old
+
 # Prerequisites
 *.d
 
